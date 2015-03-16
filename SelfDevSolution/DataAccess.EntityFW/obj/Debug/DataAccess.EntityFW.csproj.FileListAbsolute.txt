@@ -1,0 +1,12 @@
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\DataAccess.EntityFW.dll.config
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\DataAccess.EntityFW.dll
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\DataAccess.EntityFW.pdb
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\EntityFramework.dll
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\EntityFramework.SqlServer.dll
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\EntityFramework.xml
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\EntityFramework.SqlServer.xml
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\obj\Debug\DataAccess.EntityFW.csprojResolveAssemblyReference.cache
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\obj\Debug\DataAccess.EntityFW.dll
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\obj\Debug\DataAccess.EntityFW.pdb
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\Models.dll
+E:\SOAWithWCFandLINQ\SelfDevSolution\DataAccess.EntityFW\bin\Debug\Models.pdb
